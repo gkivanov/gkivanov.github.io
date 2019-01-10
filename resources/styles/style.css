@@ -187,7 +187,7 @@ a {
   font-size: 14.5px;
   text-align: justify;
   text-justify: inter-word;
-  padding-right: 40px;
+  padding-right: 20px;
 }
 
 div.icons {
@@ -247,7 +247,7 @@ div.icons a {
 }
 
 @media (max-width: 991px) {
-  #gki {
+  #logo {
     display: none;
   }
 }
