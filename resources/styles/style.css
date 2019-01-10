@@ -49,7 +49,7 @@ a {
 }
 
 .opaque {
-  opacity: 0;
+  opacity: 1;
 }
 
 #logo {
@@ -80,7 +80,7 @@ a {
   width: 130px;
   height: 35px;
   margin: auto;
-  font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
   color: #898989;
   cursor : pointer;
@@ -146,7 +146,7 @@ a {
 }
 
 .blob {
-  background: url('../images/blob.png') no-repeat; 
+  background: url('../images/blob.png') no-repeat;
   background-size: 50px 34px;
   width: 50px;
   height: 34px;
@@ -200,11 +200,11 @@ div.icons a {
 }
 
 #footer {
-  font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-  padding: 10px; 
-  text-align: center; 
-  color: #aaa; 
-  position: relative; 
+  font-family: "HelveticaNeue-Thin", "Helvetica Neue Thin", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  padding: 10px;
+  text-align: center;
+  color: #aaa;
+  position: relative;
   bottom: 0;
 }
 
@@ -223,7 +223,7 @@ div.icons a {
   padding-bottom: 100px;
 }
 
-@media (max-width: 991px) { 
+@media (max-width: 991px) {
   #gki {
     display: none;
   }
